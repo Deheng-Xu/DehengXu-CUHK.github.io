@@ -11,7 +11,7 @@ I am an Assistant Professor of Finance at the Chinese University of Hong Kong (C
 
 I received my Phd in Finance from the University of Texas at Austin.
 
-My research interests are in Financial Intermediation, real estate, and household finance.
+My research interests are in financial Intermediation, real estate, and household finance.
 
 Email: [dehengxu@cuhk.edu.hk](mailto:dehengxu@cuhk.edu.hk)
 
