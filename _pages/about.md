@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at the Chinese University of Hong Kong (CUHK) Business School.
+I am a Research Assistant Professor of Finance at the Chinese University of Hong Kong (CUHK) Business School.
 
 I received my Phd in Finance from the University of Texas at Austin.
 
