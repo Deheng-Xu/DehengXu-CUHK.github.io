@@ -18,7 +18,7 @@ Email: dehengxu@cuhk.edu.hk
 Working Papers
 ======
 
-[Capital Requirements, Earnings Stability, and Asset Maturity in Banking](files/your_paper.pdf)
+[Capital Requirements, Earnings Stability, and Asset Maturity in Banking](Xu (2025).pdf)
 
 Abstract: I demonstrate that capital regulation can incentivize banks to maintain stable earnings, as doing so ensures they have sufficient capital to capture profitable lending opportunities. Because deposit spreads rise and long-term asset spreads fall when risk-free rates increase, banks adjust asset maturities to stabilize earnings. When rates are low, the interest rate sensitivity of deposit spreads is higher, implying longer optimal asset maturities. Empirically, I find that this interest rate sensitivity increases more for banks with greater deposit market power, and these banks extended their asset maturities more following the rate reductions induced by the COVID-19 pandemic.
 
